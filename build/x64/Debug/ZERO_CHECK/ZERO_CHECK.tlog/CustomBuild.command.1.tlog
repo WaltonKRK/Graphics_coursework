@@ -1,0 +1,10 @@
+^C:\USERS\WALTON\DOCUMENTS\GITHUB\GRAPHICS_COURSEWORK\BUILD\CMAKEFILES\1A34B01F174C43A18E7A7877E020F49F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Walton/Documents/GitHub/Graphics_coursework -BC:/Users/Walton/Documents/GitHub/Graphics_coursework/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Walton/Documents/GitHub/Graphics_coursework/build/Graphics_coursework.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

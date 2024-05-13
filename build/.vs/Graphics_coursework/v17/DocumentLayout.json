@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Walton\\Documents\\GitHub\\Graphics_coursework\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC549B89-2BA4-32A9-9658-5662CD01834A}|Graphics_coursework.vcxproj|C:\\Users\\Walton\\Documents\\GitHub\\Graphics_coursework\\build\\fragmentShader.vert||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC549B89-2BA4-32A9-9658-5662CD01834A}|Graphics_coursework.vcxproj|solutionrelative:fragmentShader.vert||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC549B89-2BA4-32A9-9658-5662CD01834A}|Graphics_coursework.vcxproj|C:\\Users\\Walton\\Documents\\GitHub\\Graphics_coursework\\build\\vertexShader.vert||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC549B89-2BA4-32A9-9658-5662CD01834A}|Graphics_coursework.vcxproj|solutionrelative:vertexShader.vert||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC549B89-2BA4-32A9-9658-5662CD01834A}|Graphics_coursework.vcxproj|C:\\Users\\Walton\\Documents\\GitHub\\Graphics_coursework\\source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fragmentShader.vert",
+              "DocumentMoniker": "C:\\Users\\Walton\\Documents\\GitHub\\Graphics_coursework\\build\\fragmentShader.vert",
+              "RelativeDocumentMoniker": "fragmentShader.vert",
+              "ToolTip": "C:\\Users\\Walton\\Documents\\GitHub\\Graphics_coursework\\build\\fragmentShader.vert",
+              "RelativeToolTip": "fragmentShader.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T15:13:45.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vertexShader.vert",
+              "DocumentMoniker": "C:\\Users\\Walton\\Documents\\GitHub\\Graphics_coursework\\build\\vertexShader.vert",
+              "RelativeDocumentMoniker": "vertexShader.vert",
+              "ToolTip": "C:\\Users\\Walton\\Documents\\GitHub\\Graphics_coursework\\build\\vertexShader.vert",
+              "RelativeToolTip": "vertexShader.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T15:12:20.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Walton\\Documents\\GitHub\\Graphics_coursework\\source\\main.cpp",
+              "RelativeDocumentMoniker": "..\\source\\main.cpp",
+              "ToolTip": "C:\\Users\\Walton\\Documents\\GitHub\\Graphics_coursework\\source\\main.cpp",
+              "RelativeToolTip": "..\\source\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T14:28:06.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
